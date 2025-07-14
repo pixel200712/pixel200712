@@ -1,28 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&lines=🚀+Hey%2C+I'm+Axel!;💻+Web+Developer+Creativo;🌌+Bienvenido+a+mi+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&color=00F7FF&center=true&vCenter=true&lines=Hey+%F0%9F%91%8B,+What's+Up?;Soy+Axel,+Desarrollador+Web" />
 </h1>
 
 ###
 
+<p align="center">
+  Desarrollador web creativo de Xonacatlán, México. Apasionado por construir experiencias visuales únicas y efectos que sorprenden.
+</p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
@@ -39,9 +34,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pixel200712&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixel200712&theme=radical&hide_border=true&border_radius=10" height="150" alt="GitHub Streak" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=pixel200712&theme=radical&row=1&column=4&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
+
 </div>
+
 
 ###
 
