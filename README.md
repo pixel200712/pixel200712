@@ -3,7 +3,7 @@
 
 ###
 
-<table>
+<table alig="center">
   <tr>
     <td>
       <img src="https://wallup.net/wp-content/uploads/2019/09/721949-moon-grass-mood-night-stars-fantasy-dream-nature-landscape-2.jpg" alt="Fondo Neón" width="150" />
