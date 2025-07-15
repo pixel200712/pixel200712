@@ -31,33 +31,29 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://wa.me/7228540415" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>&nbsp;
+  <a href="https://facebook.com/profile.php?id=61558418567311" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>&nbsp;
+  <a href="https://instagram.com/axelmorales2146?igsh=MTNnMzlmOGpqNmlhYw==" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>&nbsp;
+  <a href="https://t.me/+527228540415" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=0088CC&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>&nbsp;
+<a href="https://www.tiktok.com/@axelmorales752?_t=ZS-8y2BX8rBCHE&_r=1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&color=000000&logoColor=white&style=for-the-badge" height="25" alt="tiktok logo" />
+</a>
 </div>
 
 ###
+<h3 align="center">🔥 My Stats :</h3>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pixel200712&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixel200712&theme=radical&hide_border=true&border_radius=10" height="150" alt="GitHub Streak" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=pixel200712&theme=radical&row=1&column=4&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
-
-</div>
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixel200712/pixel200712/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixel200712/pixel200712/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pixel200712/pixel200712/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pixel200712&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</p>
 
 ###
 <p align="center">
