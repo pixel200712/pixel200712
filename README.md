@@ -16,16 +16,24 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <!-- Lenguajes principales -->
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />&nbsp;&nbsp;
+
+  <!-- Librerías y herramientas -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />&nbsp;&nbsp;
+
+  <!-- Herramientas que no están en skillicons.dev -->
+  <img src="https://img.icons8.com/color/60/000000/gmail--v1.png" alt="Gmail" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/60/pdf.png" alt="PDF" />&nbsp;&nbsp;
 </div>
 
 ###
