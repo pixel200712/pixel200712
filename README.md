@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&color=00F7FF&center=true&vCenter=true&lines=Hey+%F0%9F%91%8B,+What's+Up?;Soy+Axel,+Desarrollador+Web" />
+<h1 align="center">Hey I'm Axel Morales
 </h1>
 
 ###
@@ -47,9 +46,14 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixel200712/pixel200712/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixel200712/pixel200712/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pixel200712/pixel200712/output/pacman-contribution-graph.svg" />
 </picture>
+
+###
+<p align="center">
+  <em>“No busco destacar, busco crear algo que nadie olvide.” — AxelMorales 🌒</em>
+</p>
 
 ###
