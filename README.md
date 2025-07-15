@@ -1,15 +1,19 @@
 <h1 align="center">Hey I'm Axel Morales
 </h1>
 
-<p align="center">
-  <img src="https://wallup.net/wp-content/uploads/2019/09/721949-moon-grass-mood-night-stars-fantasy-dream-nature-landscape-2.jpg" alt="Fondo Neón" width="25%" />
-</p>
-
 ###
 
-<p align="center">
-  Desarrollador web creativo de Xonacatlán, México. Apasionado por construir experiencias visuales únicas y efectos que sorprenden.
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://wallup.net/wp-content/uploads/2019/09/721949-moon-grass-mood-night-stars-fantasy-dream-nature-landscape-2.jpg" alt="Fondo Neón" width="150" />
+    </td>
+    <td>
+      <p>Desarrollador web creativo de Xonacatlán, México.<br>Apasionado por construir experiencias visuales únicas y efectos que sorprenden.</p>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />&nbsp;&nbsp;
