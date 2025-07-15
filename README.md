@@ -16,25 +16,32 @@
 
 
 <div align="center">
-  <!-- Lenguajes principales -->
+
+  <!-- 🔤 Lenguajes -->
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
 
-  <!-- Librerías y herramientas -->
+  <br><br>
+
+  <!-- ⚙️ Herramientas y Frameworks -->
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
 
-  <!-- Herramientas que no están en skillicons.dev -->
+  <br><br>
+
+  <!-- 📁 Utilidades -->
   <img src="https://img.icons8.com/color/60/000000/gmail--v1.png" alt="Gmail" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" alt="Excel" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/60/pdf.png" alt="PDF" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/60/pdf.png" alt="PDF" />
+
 </div>
+
 
 ###
 
