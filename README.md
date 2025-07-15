@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://wallup.net/wp-content/uploads/2019/09/721949-moon-grass-mood-night-stars-fantasy-dream-nature-landscape-2.jpg" alt="Fondo Neón" width="100%" />
+  <img src="https://wallup.net/wp-content/uploads/2019/09/721949-moon-grass-mood-night-stars-fantasy-dream-nature-landscape-2.jpg" alt="Fondo Neón" width="25%" />
 </p>
 
 ###
